@@ -1,8 +1,7 @@
 ### Hi there 👋
-<div style="text-align:center">
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-</div>
+<p align="center">
+![Demo](https://media1.tenor.com/images/28eeb4217a1d106fc392987ca5e2a44c/tenor.gif?itemid=15456213)
+</p>
 
 <!--
 **Smark2019/Smark2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
