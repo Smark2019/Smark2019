@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<div style="text-align:center">
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+</div>
+
 <!--
 **Smark2019/Smark2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
