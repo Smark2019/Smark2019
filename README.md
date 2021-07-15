@@ -1,6 +1,10 @@
 ### Hi there 👋
 <p align="center">
-![Demo](https://media1.tenor.com/images/28eeb4217a1d106fc392987ca5e2a44c/tenor.gif?itemid=15456213)
+
+<p align="center" width="100%">
+  
+    <img align="center" src="https://media1.tenor.com/images/28eeb4217a1d106fc392987ca5e2a44c/tenor.gif?itemid=15456213" />
+ 
 </p>
 
 <!--
