@@ -1,5 +1,8 @@
-### Hi there 👋
-<p align="center">
+# Hi there 👋
+<div align="center">
+
+#  Hi there 👋
+</div>
 
 <p align="center">
   <img src="https://media1.tenor.com/images/28eeb4217a1d106fc392987ca5e2a44c/tenor.gif?itemid=15456213" alt="animated" />
