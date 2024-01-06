@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ Data Science & Analysis on Computational Finance and I have experience at Robotics.<br>👯 I’m looking to collaborate on these fields.<br>🌱 I’m currently learning ML<br>
+🔭 I’m currently working @ LLM Supported Applications and @ Data Science & Analysis on Computational Finance and I have experience at Robotics.<br>👯 I’m looking to collaborate on these fields.<br>🌱 I’m currently learning LangChain and RAG Approach<br>
 
 
 ## 🌐 Socials:
